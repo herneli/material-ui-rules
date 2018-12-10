@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/herneli/material-ui-rules"
   },
-  "version": "0.1.0",
+  "version": "0.1.2",
   "dependencies": {
     "@material-ui/core": "^3.6.2",
     "react": "^16.6.3",

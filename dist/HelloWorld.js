@@ -19,7 +19,7 @@ function (_Component) {
   _createClass(HelloWorld, [{
     key: "render",
     value: function render() {
-      return React.createElement("div", null, React.createElement("h1", null, "Hello world!!!"));
+      return React.createElement("div", null, React.createElement("h1", null, "Hello world!!! ", this.props.name));
     }
   }]);
 
